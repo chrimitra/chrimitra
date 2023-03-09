@@ -2,15 +2,16 @@
 
 
 <h1 align="center">Christian Martin Mitra </h1>
-<img align="right" src="https://media.tenor.com/zWLzYDsUprAAAAAC/anime-boy.gif" height="300px">
+<h4 align="center"> Hi 👋, I'm a <i>Full Stack Developer</i> based in Milan, Italy </h4>
+<img align="right" src="https://cutewallpaper.org/25/animated-gif-upload-wallpaper/pin-by-fredsolidstate-on-%E2%96%B3-g-i-f-s-%E2%96%B3-vaporwave-gif-technology-wallpaper-gif-background.gif" height="290px">
 
 
-## Connect with me: 
+<h3>Connect with me: </h3> 
 <p align="left">
 <a href="https://linkedin.com/in/christianmartinmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianmartinmitra" height="30" width="40" /></a>
 <a href="https://instagram.com/chrimitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chrimitra" height="30" width="40" /></a>
 
-## Languages and Tools:
+<h3> Languages and tool: </h3> 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -24,7 +25,8 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-
-## 📊 GitHub Stats:
+    
+    
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chrimitra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 

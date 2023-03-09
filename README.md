@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Christian Martin Mitra </h1>
-
+<img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" align="center" width="1000px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christianmartinmitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianmartinmitra" height="30" width="40" /></a>
